@@ -69,16 +69,16 @@ lib/
 <img src="screenshots/home.png" alt="Home Screen" width="300">
 
 ### New & Hot
-![New and Hot](screenshots/newandhot.png)
+<img src="screenshots/newandhot.png" alt="Home Screen" width="300">
 
 ### Fast Laugh
-![Fast Laugh](screenshots/fastlaugh.png)
+<img src="screenshots/fastlaugh.png" alt="Home Screen" width="300">
 
 ### Search
-![Search](screenshots/search.png)
+<img src="screenshots/search.png" alt="Home Screen" width="300">
 
 ### Downloads
-![Downloads](screenshots/downloads.png)
+<img src="screenshots/downloads.png" alt="Home Screen" width="300">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
