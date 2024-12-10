@@ -66,7 +66,7 @@ lib/
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png){: width="300"}
+<img src="screenshots/home.png" alt="Home Screen" width="300">
 
 ### New & Hot
 ![New and Hot](screenshots/newandhot.png)
