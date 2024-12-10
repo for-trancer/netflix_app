@@ -28,13 +28,12 @@ A feature-rich Netflix UI clone built using Flutter, leveraging the **TMDB API**
 The project follows a clean and modular architecture:
 ```
 lib/
-├── blocs/                # Contains Bloc files for state management
-├── models/               # Data models for TMDB API responses
-├── repositories/         # Handles API calls and data manipulation
-├── screens/              # All the app's screens
-├── widgets/              # Reusable UI components
-├── utils/                # Helpers, constants, and utility functions
-└── main.dart             # Entry point of the application
+├── application/                
+├── core/              
+├── domain/         
+├── infrastructure/        
+├── presentation/             
+└── main.dart             
 ```
 
 ## Setup Instructions
